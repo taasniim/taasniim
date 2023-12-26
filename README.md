@@ -42,10 +42,8 @@ I am a computer science student passionate about mobile development and data sci
 - Technologies: StarUML, Figma, Flutter, Firebase
 
 ## Certifications 🏆
-- Flutter Training Certification
-- Gate Training
-- CodeCraft: Mastering Web Development & Getting Started with Mobile
-- Microsoft Learn Student Ambassador
+- Flutter Training Certification :Gate Training
+- CodeCraft: Mastering Web Development & Getting Started with Mobile: Microsoft Learn Student Ambassador
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/tasnimlabidi-59140a240/)
