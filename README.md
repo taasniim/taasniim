@@ -1,5 +1,3 @@
-# Tasnim Labidi-Computer Science Student
-
 ## Contact
 - 📞 Mobile: +216 26682441
 - 📧 Email: tasnim.labidi@essths.u-sousse.tn | labiditasnim50@gmail.com
