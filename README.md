@@ -1,6 +1,6 @@
-# Tasnim Labidi - Profil GitHub
+# Tasnim Labidi 
 
-![Profil](lien_vers_image_profil)
+
 
 ## Contact
 - 📞 Mobile: +216 26682441
