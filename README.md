@@ -6,8 +6,6 @@
 - 📞 Mobile: +216 26682441
 - 📧 Email: tasnim.labidi@essths.u-sousse.tn | labiditasnim50@gmail.com
 
-
-
 ## About Me
 I am a computer science student passionate about mobile development and data science.
 
@@ -20,19 +18,19 @@ I am a computer science student passionate about mobile development and data sci
 
 ## Skills
 ### Programming Languages
-C, C++, Java, PHP, Python, Dart, PL/SQL
+💻 C, C++, Java, PHP, Python, Dart, PL/SQL
 
 ### Framework
-Flutter
+🚀 Flutter
 
 ### Databases
-NoSQL, MySQL, MongoDB
+📊 NoSQL, MySQL, MongoDB
 
 ### Software
-- Raspberry Pi, Arduino Uno
-- VSCode, Android Studio, Docker
-- Jupyter Notebook, Eclipse IDE
-- Figma, StarUML
+🔧 Raspberry Pi, Arduino Uno
+🛠 VSCode, Android Studio, Docker
+📓 Jupyter Notebook, Eclipse IDE
+🎨 Figma, StarUML
 
 ## Projects
 ### LeoniInternManger - Mobile Development Intern
@@ -49,8 +47,7 @@ NoSQL, MySQL, MongoDB
 - Application designed to simplify and improve the process of finding housing and roommates for students.
 - Technologies: StarUML, Figma, Flutter, Firebase
 
-
-## Certifications
+## Certifications 🏆
 - Flutter Training Certification
 - Gate Training
 - CodeCraft: Mastering Web Development & Getting Started with Mobile
@@ -60,8 +57,9 @@ NoSQL, MySQL, MongoDB
 - [LinkedIn](https://www.linkedin.com/in/tasnimlabidi-59140a240/)
 
 ## GitHub Stats
-![GitHub Stats](https://img.shields.io/github/commit-activity/m/taasniim/taasniim?style=flat-square)
+![GitHub Contributions](https://img.shields.io/github/commit-activity/m/taasniim/taasniim?style=flat-square)
+![GitHub Stars](https://img.shields.io/github/stars/taasniim/taasniim?style=flat-square)
+![GitHub Forks](https://img.shields.io/github/forks/taasniim/taasniim?style=flat-square)
 
 ## Interests
 - User Interface Design
-
