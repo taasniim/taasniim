@@ -1,11 +1,12 @@
-# Tasnim Labidi 
+# Tasnim Labidi
 
-![Profile](https://avatars.githubusercontent.com/u/106468677?s=400&u=c768f536056d8f08afa6f6158dd1d229ea79d5e6&v=4)
+<img src="https://avatars.githubusercontent.com/u/106468677?s=400&u=c768f536056d8f08afa6f6158dd1d229ea79d5e6&v=4" width="200">
 
 ## Contact
 - 📞 Mobile: +216 26682441
 - 📧 Email: tasnim.labidi@essths.u-sousse.tn | labiditasnim50@gmail.com
-- 📍 Location: Sousse, Tunisia
+
+
 
 ## About Me
 I am a computer science student passionate about mobile development and data science.
