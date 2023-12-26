@@ -1,6 +1,4 @@
-# Tasnim Labidi
-
-<img src="https://avatars.githubusercontent.com/u/106468677?s=400&u=c768f536056d8f08afa6f6158dd1d229ea79d5e6&v=4" width="175">
+# Tasnim Labidi-Computer Science Student
 
 ## Contact
 - 📞 Mobile: +216 26682441
