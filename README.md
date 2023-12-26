@@ -1,6 +1,6 @@
 # Tasnim Labidi
 
-![Profile](link_to_profile_image)
+![Profile]([link_to_profile_image](https://avatars.githubusercontent.com/u/106468677?s=400&u=c768f536056d8f08afa6f6158dd1d229ea79d5e6&v=4))
 
 ## Contact
 - 📧 Email: tasnim.labidi@essths.u-sousse.tn | labiditasnim50@gmail.com
