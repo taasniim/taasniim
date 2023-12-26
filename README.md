@@ -68,11 +68,8 @@ Linux (Ubuntu), Windows
 
 ## GitHub Stats
 
-![GitHub Stats](https://img.shields.io/github/commit-activity/y/taasniim/taasniim?style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/taasniim/taasniim?style=flat-square)
-![GitHub Forks](https://img.shields.io/github/forks/taasniim/taasniim?style=flat-square)
-![GitHub Issues](https://img.shields.io/github/issues/taasniim/taasniim?style=flat-square)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/taasniim/taasniim?style=flat-square)
+![GitHub Total Commits](https://img.shields.io/github/commit-activity/taasniim/taasniim?style=flat-square)
+
 
 
 ## Interests
