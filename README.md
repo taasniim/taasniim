@@ -1,9 +1,8 @@
-# Tasnim Labidi 
+# Tasnim Labidi
 
-
+![Profile](link_to_profile_image)
 
 ## Contact
-- 📞 Mobile: +216 26682441
 - 📧 Email: tasnim.labidi@essths.u-sousse.tn | labiditasnim50@gmail.com
 - 📍 Location: Sousse, Tunisia
 
@@ -16,11 +15,6 @@ I am a computer science student passionate about mobile development and data sci
 
 - **High School Diploma in Experimental Sciences (2021)**
   - Zaouia Kssibat and Thrayet High School, Tunisia
-
-## Languages
-- Arabic: Native
-- French: B2
-- English: B1
 
 ## Skills
 ### Programming Languages
@@ -57,6 +51,7 @@ Linux (Ubuntu), Windows
 - Application designed to simplify and improve the process of finding housing and roommates for students.
 - Technologies: StarUML, Figma, Flutter, Firebase
 
+
 ## Certifications
 - Flutter Training Certification
 - Gate Training
@@ -67,11 +62,8 @@ Linux (Ubuntu), Windows
 - [LinkedIn](https://www.linkedin.com/in/tasnimlabidi-59140a240/)
 
 ## GitHub Stats
-
-![GitHub Total Commits](https://img.shields.io/github/commit-activity/taasniim/taasniim?style=flat-square)
-
-
+![GitHub Stats](https://img.shields.io/github/commit-activity/m/taasniim/taasniim?style=flat-square)
 
 ## Interests
 - User Interface Design
-  
+
