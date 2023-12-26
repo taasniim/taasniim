@@ -5,71 +5,70 @@
 ## Contact
 - 📞 Mobile: +216 26682441
 - 📧 Email: tasnim.labidi@essths.u-sousse.tn | labiditasnim50@gmail.com
-- 📍 Sousse, Tunisie
+- 📍 Location: Sousse, Tunisia
 
-## À propos de moi
-Je suis étudiante en sciences de l'informatique passionnée par le développement mobile et la science des données.
+## About Me
+I am a computer science student passionate about mobile development and data science.
 
-## Éducation
-- **Licence en sciences de l’informatique (En cours)**
-  - École supérieure de sciences et de la technologie de Hammem Sousse, Tunisie
+## Education
+- **Bachelor's in Computer Science (In Progress)**
+  - Higher School of Science and Technology, Hammem Sousse, Tunisia
 
-- **Baccalauréat sciences expérimentales (2021)**
-  - Lycée Zaouia Kssibat et Thrayet, Tunisie
+- **High School Diploma in Experimental Sciences (2021)**
+  - Zaouia Kssibat and Thrayet High School, Tunisia
 
-## Langues
-- Arabe : Langue maternelle
-- Français : B2
-- Anglais : B1
 
-## Compétences
-### Langages de programmation
+## Skills
+### Programming Languages
 C, C++, Java, PHP, Python, Dart, PL/SQL
 
 ### Framework
 Flutter
 
-### Bases de données
+### Databases
 NoSQL, MySQL, MongoDB
 
-### Systèmes d'exploitation
+### Operating Systems
 Linux (Ubuntu), Windows
 
-### Logiciels
+### Software
 - Cassandra
 - Raspberry Pi, Arduino Uno
 - VSCode, Android Studio, Docker
 - Jupyter Notebook, Eclipse IDE
 - Figma, StarUML
 
-## Projets
-### LeoniInternManger - Stagiaire en développement mobile
-- Création d'une application mobile pour la gestion des stages à Leoni Tunisia avec Flutter et Firebase.
-- Facilite le processus de demande de stages, génère automatiquement les matricules pour les stagiaires acceptés, permet le remplissage du journal de stage, la soumission en ligne des rapports de stage, et la réception des attestations de fin de stage en ligne.
-- **Date :** Juillet 2023
+## Projects
+### LeoniInternManger - Mobile Development Intern
+- Developed a mobile application for internship management at Leoni Tunisia using Flutter and Firebase.
+- Facilitated the internship application process, automated matriculation generation for accepted interns, enabled daily journal submission through the application, streamlined online internship report submission, and facilitated online receipt of internship completion certificates.
+- **Date:** July 2023
 
-### Projet The Sparks Foundation - Stagiaire en Science des données (Data Science)
-- Analyse approfondie des données.
-- Conception, implémentation et évaluation de modèles de machine learning.
-- **Date :** Octobre 2023
+### The Sparks Foundation Project - Data Science Intern
+- Conducted in-depth data analysis.
+- Actively participated in the design, implementation, and evaluation of machine learning models.
+- **Date:** October 2023
 
-### Projet Ekrili (En cours)
-- Application pour simplifier la recherche de logements et de binômes pour les étudiants.
-- Technologies : StarUML, Figma, Flutter, Firebase
+### Ekrili Project (Ongoing)
+- Application designed to simplify and improve the process of finding housing and roommates for students.
+- Technologies: StarUML, Figma, Flutter, Firebase
 
-### Application Météo (Juin 2023)
-- Application mobile fournissant des informations météorologiques en temps réel.
-- Technologies : StarUML, Figma, Flutter
+### Weather Application (June 2023)
+- Developed a mobile weather application providing real-time weather information for a specified location.
+- Technologies: StarUML, Figma, Flutter
 
 ## Certifications
-- Certification de formation Flutter
+- Flutter Training Certification
 - Gate Training
 - CodeCraft: Mastering Web Development & Getting Started with Mobile
 - Microsoft Learn Student Ambassador
 
-## Liens
+## Links
 - [LinkedIn](https://www.linkedin.com/in/tasnimlabidi-59140a240/)
 
-## Centres d'intérêt
-- Design d'interface utilisateur
-- Lecture
+## GitHub Stats
+![GitHub Stats](https://img.shields.io/github/commit-activity/m/taasniim/taasniim?style=flat-square)
+
+## Interests
+- User Interface Design
+- Reading
