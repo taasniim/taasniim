@@ -17,6 +17,10 @@ I am a computer science student passionate about mobile development and data sci
 - **High School Diploma in Experimental Sciences (2021)**
   - Zaouia Kssibat and Thrayet High School, Tunisia
 
+## Languages
+- Arabic: Native
+- French: B2
+- English: B1
 
 ## Skills
 ### Programming Languages
@@ -53,10 +57,6 @@ Linux (Ubuntu), Windows
 - Application designed to simplify and improve the process of finding housing and roommates for students.
 - Technologies: StarUML, Figma, Flutter, Firebase
 
-### Weather Application (June 2023)
-- Developed a mobile weather application providing real-time weather information for a specified location.
-- Technologies: StarUML, Figma, Flutter
-
 ## Certifications
 - Flutter Training Certification
 - Gate Training
@@ -71,4 +71,4 @@ Linux (Ubuntu), Windows
 
 ## Interests
 - User Interface Design
-- Reading
+  
