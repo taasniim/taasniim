@@ -6,7 +6,7 @@
 I am a computer science student passionate about mobile development and data science.
 
 ## Education
-- **Bachelor's in Computer Science (In Progress)**
+- **Bachelor's in Computer Science (2021-2024)**
   - Higher School of Science and Technology, Hammem Sousse, Tunisia
 
 - **High School Diploma in Experimental Sciences (2021)**
@@ -23,9 +23,7 @@ I am a computer science student passionate about mobile development and data sci
 📊 NoSQL, MySQL, MongoDB
 
 ### Software
-🔧 Raspberry Pi, Arduino Uno
-🛠 VSCode, Android Studio, Docker
-📓 Jupyter Notebook, Eclipse IDE
+🛠 VSCode, Android Studio, Docker, Jupyter Notebook, Eclipse IDE
 🎨 Figma, StarUML
 
 ## Projects
@@ -54,8 +52,6 @@ I am a computer science student passionate about mobile development and data sci
 
 ## GitHub Stats
 ![GitHub Contributions](https://img.shields.io/github/commit-activity/m/taasniim/taasniim?style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/taasniim/taasniim?style=flat-square)
-![GitHub Forks](https://img.shields.io/github/forks/taasniim/taasniim?style=flat-square)
 
 ## Interests
 - User Interface Design
