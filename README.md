@@ -18,7 +18,7 @@ I am a computer science student passionate about mobile development and data sci
 
 ## Skills
 ### Programming Languages
-💻 C, C++, Java, PHP, Python, Dart, PL/SQL
+💻 C, C++, Java, PHP, Python, Dart, PL/SQL, javascipt
 
 ### Framework
 🚀 Flutter
