@@ -28,11 +28,7 @@ Flutter
 ### Databases
 NoSQL, MySQL, MongoDB
 
-### Operating Systems
-Linux (Ubuntu), Windows
-
 ### Software
-- Cassandra
 - Raspberry Pi, Arduino Uno
 - VSCode, Android Studio, Docker
 - Jupyter Notebook, Eclipse IDE
