@@ -40,8 +40,7 @@ In the ongoing magical creation, "Ekrili," I'm conjuring an application to simpl
 
 ### 🏆 Certification Chronicles
 - Flutter Training Certification: Gate Training
-- CodeCraft: Mastering Web Development & Getting Started with Mobile
-- Microsoft Learn Student Ambassador
+- CodeCraft: Mastering Web Development & Getting Started with Mobile : Microsoft Learn Student Ambassador
 
 ### 🔗 Journey Links
 - [LinkedIn](https://www.linkedin.com/in/tasnimlabidi-59140a240/)
