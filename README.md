@@ -1,11 +1,10 @@
-## 🚀 Unleashing Code Magic with Tasnim Labidi ✨
 
 ### 📞 Contact
 - Mobile: +216 26682441
 - Email: tasnim.labidi@essths.u-sousse.tn | labiditasnim50@gmail.com
 
 ### 👩‍💻 About Me
-Hey there! I'm Tasnim Labidi, a computer science dreamweaver, weaving magic into mobile development and data science. As I embark on this coding adventure, my mission is to transform lines of code into digital masterpieces.
+Hey there! I'm Tasnim Labidi, a computer science student.
 
 ### 🎓 Education
 - **Bachelor's in Computer Science (2021-2024)**
@@ -18,21 +17,13 @@ Hey there! I'm Tasnim Labidi, a computer science dreamweaver, weaving magic into
 #### Programming Languages
 C, C++, Java, PHP, Python, Dart, PL/SQL, JavaScript
 
-#### Framework
-Flutter 🚀
 
-#### Databases
-NoSQL, MySQL, MongoDB 📊
-
-#### Software Toolbox
-VSCode, Android Studio, Docker, Jupyter Notebook, Eclipse IDE
-Figma, StarUML 🛠
 
 ### 🚀 Project Odyssey
 #### LeoniInternManger - Mobile Development Maestro
 Crafting an enchanting mobile application at Leoni Tunisia using Flutter and Firebase, I orchestrated a symphony that streamlined internships, automated matriculation, and brought the magic of online internship completion certificates. Date of completion: July 2023.
 
-#### The Sparks Foundation Project - Data Science Sorceress
+#### The Sparks Foundation Project 
 Venturing into the depths of data, I conjured profound analyses and actively contributed to the design, implementation, and evaluation of bewitching machine learning models. Date of culmination: October 2023.
 
 #### Ekrili Project (Ongoing)
